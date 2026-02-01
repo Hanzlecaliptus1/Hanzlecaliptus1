@@ -1,0 +1,53 @@
+<div align="center">
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=2094F3&vCenter=true&width=520&lines=Github+hanzlecaliptus1;Developer+|+Learner;Welcome+to+my+profile!" alt="Typing SVG" />
+</p>
+
+---
+
+### 🛠️ Languages and Tools
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="45" title="JavaScript"/>
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="45" title="TypeScript"/>
+  <img src="https://media.giphy.com/media/UbhiXGJk0k6jG/giphy.gif" width="45" title="HTML"/>
+  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="45" title="CSS"/>
+  <br/>
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="45" title="PHP"/>
+  <img src="https://media.giphy.com/media/SE7sVZvFaiDbp3DWR9/giphy.gif" width="45" title="Java"/>
+  <img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="45" title="Go"/>
+  <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="45" title="Rust"/>
+  <br/>
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="45" title="C"/>
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="45" title="C++"/>
+  <img src="https://media.giphy.com/media/du3J3cXyzhXxK/giphy.gif" width="45" title="C#"/>
+  <br/>
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="45" title="Kotlin"/>
+  <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="45" title="Swift"/>
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="45" title="Dart"/>
+  <br/>
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="45" title="R"/>
+  <img src="https://media.giphy.com/media/xT9IgIc0lryrxvqVGM/giphy.gif" width="45" title="MATLAB"/>
+  <br/>
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="45" title="Bash"/>
+  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="45" title="Ruby"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="45" title="Scala"/>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="45" title="Haskell"/>
+  <img src="https://media.giphy.com/media/3oEjHAUOqG3lSS0f1C/giphy.gif" width="45" title="Lua"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hanzlecaliptus1&theme=react-dark&bg_color=0D1117&hide_border=true&color=53b14f&line=53b14f&point=FFFFFF" alt="Activity Graph" width="100%"/>
+</p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hanzlecaliptus1&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanzlecaliptus1&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" height="150" alt="languages graph" />
+</div>
+
+</div>
